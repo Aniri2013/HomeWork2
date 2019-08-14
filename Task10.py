@@ -1,5 +1,5 @@
-N = int(input("Please input any number N \n"))
-for i in range(1, N):
+M = int(input("Введи число - "))
+for i in range(1, M):
     flag = True
     j = 2
     while j <= i // 2:
